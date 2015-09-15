@@ -1,1 +1,1 @@
-hola desde local git
+#Estos seran los nuevos requerimientos del nuevo proyecto
